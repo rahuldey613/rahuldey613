@@ -2,8 +2,7 @@
 
 I'm Rahul and i am an Undergrad who loves to work on design and frontend Web Development
 
-<!--
-**rahuldey613/rahuldey613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                              ✨ ✨ 
 
 Here are some ideas to get you started:
 
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rahul.dey613@gmail.com
 - 😄 Pronouns: Raah
 - ⚡ Fun fact: Try me
--->
