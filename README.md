@@ -1,4 +1,4 @@
-### Hi there 👋
+## नमस्ते (Namaste), I am [Rahul Dey](https://rahuldey613.github.io/)
 
 I'm Rahul and i am an Undergrad who loves to work on design and frontend Web Development
 
