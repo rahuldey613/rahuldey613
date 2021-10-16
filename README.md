@@ -1,6 +1,8 @@
-## नमस्ते (Namaste), I am [Rahul Dey](https://rahuldey613.github.io/)
+## नमस्ते (Namaste), I am [Rahul Dey](https://rahuldey613.github.io/)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.mind-graph.com/">Mind-Graph</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Graduated from <a href="https://www.bitmesra.ac.in/">BIT,Mesra</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
-I'm Rahul and i am an Undergrad who loves to work on design and frontend Web Development
 
                               ✨ ✨ 
 
