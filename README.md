@@ -4,15 +4,16 @@
 </em></p>
 
 
-                              ✨ ✨ 
-
-
-
-- 🔭 I’m currently working on AI mask detection
-- 🌱 I’m currently learning PHP,CSS and Deep Learning
-- 👯 I’m looking to collaborate on Front-End Projects
-- 🤔 I’m looking for help with Back-End Development
-- 💬 Ask me about Anything
-- 📫 How to reach me: rahul.dey613@gmail.com
-- 😄 Pronouns: he/him/mosier
-- ⚡ Fun fact: Try me
+```javascript
+const thai = {
+  pronouns: "He" | "his",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Node,ecllips],
+  architecture: [ "Front-End", "system pattern"],
+  techCommunities: {
+                        coorganizer: "BIT-M",
+                        
+                        mentor: "GirlScript"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react & front-end"
+}
